@@ -12,7 +12,7 @@ Roadmaps are being made interactive and have been moved to website.
 <li><a href="https://roadmap.sh/devops">DevOps Roadmap</a></li>
 <li><a href="https://roadmap.sh/android">Android Roadmap</a></li>
 <li><a href="https://roadmap.sh/python">Python Roadmap</a></li>
-<li><a href="https://roadmap.sh/go">Go Roadmap</a></li>
+<li><a href="https://roadmap.sh/golang">Go Roadmap</a></li>
 <li><a href="https://roadmap.sh/angular">Angular Roadmap</a></li>
 <li><a href="https://roadmap.sh/dba">DBA Roadmap</a></li>
 </ul>
