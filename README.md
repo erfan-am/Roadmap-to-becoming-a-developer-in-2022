@@ -1,6 +1,13 @@
 # Roadmap-to-becoming-a-developer-in-2022
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 
+<p>
+Roadmaps are being made interactive and have been moved to website.
+</p>
+<h2>View all the roadmaps</h2>
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
+<ul>
+<li><a href="https://roadmap.sh/backend">Backend roadmap</a></li>
+<li><a href="https://roadmap.sh/frontend">Frontend roadmap</a></li>
+</ul>
 
-
-<a href="https://roadmap.sh/backend">Backend roadmap</a>
-<a href="https://roadmap.sh/frontend">Frontend roadmap</a>
