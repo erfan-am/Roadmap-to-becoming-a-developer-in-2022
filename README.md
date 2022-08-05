@@ -14,7 +14,7 @@ Roadmaps are being made interactive and have been moved to website.
 <li><a href="https://roadmap.sh/python">Python Roadmap</a></li>
 <li><a href="https://roadmap.sh/golang">Go Roadmap</a></li>
 <li><a href="https://roadmap.sh/angular">Angular Roadmap</a></li>
-<li><a href="https://roadmap.sh/dba">DBA Roadmap</a></li>
+<li><a href="https://roadmap.sh/postgresql-dba">DBA Roadmap</a></li>
 </ul>
 
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
